@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\coming_soon_page_andela"
+		},
+		{
+			"path": "..\\..\\todo_list"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "todo_list"
+	}
+}
